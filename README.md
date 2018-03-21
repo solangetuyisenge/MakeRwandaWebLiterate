@@ -1,0 +1,2 @@
+# MakeRwandaWebLiterate
+Make Rwanda Web Literate project will equip citizens with digital skills, and make sure they feel safe on internet focusing on people from underserved communities and women. With the help of youth known as digital ambassadors we carry out awareness campaigns and willing citizens join our training program. Participants are given one month training and then form learning clubs where they keep learning together and use the gain skills to design income generating projects.
