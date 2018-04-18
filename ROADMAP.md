@@ -1,5 +1,5 @@
-###Road Map###
-##Goals
+**Road Map**
+**Goals**
 September 2017
 Launch project
 October 2017
