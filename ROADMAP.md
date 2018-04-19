@@ -1,6 +1,6 @@
 # Road Map # 
 
-**Goals**  
+## Goals ## 
 **September 2017**</br>
 -Launch project </br>
 **October 2017**</br>
