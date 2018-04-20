@@ -15,14 +15,14 @@ Before suggesting an improvement to the documents, please make sure the suggesti
 
 **How Do I Submit A (Good) Enhancement Suggestion?**
 
-Enhancement suggestions are tracked as GitHub issues. After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the following information:
-•	Use a clear and descriptive title for the issue to identify the suggestion.
-•	Provide a step-by-step description of the suggested enhancement in as many details as possible.
-•	Provide specific examples to demonstrate the steps. Include copy/pasteable snippets which you use in those examples.
-•	Include screenshots and animated GIFs which help you demonstrate the steps or point out the documents which the suggestion is related to. 
-•	Explain why this enhancement would be useful to most club members.
-•	List some other text editors or applications where this enhancement exists.
-•	Specify which version of Ms. Office you're using. 
+Enhancement suggestions are tracked as GitHub issues. After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the following information:</br>
+•	Use a clear and descriptive title for the issue to identify the suggestion.</br>
+•	Provide a step-by-step description of the suggested enhancement in as many details as possible.</br>
+•	Provide specific examples to demonstrate the steps. Include copy/pasteable snippets which you use in those examples.</br>
+•	Include screenshots and animated GIFs which help you demonstrate the steps or point out the documents which the suggestion is related to.</br> 
+•	Explain why this enhancement would be useful to most club members.</br>
+•	List some other text editors or applications where this enhancement exists.</br>
+•	Specify which version of Ms. Office you're using. </br>
 
 **Translate Handouts**
 
