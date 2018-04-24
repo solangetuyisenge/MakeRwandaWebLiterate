@@ -27,4 +27,4 @@ Enhancement suggestions are tracked as GitHub issues. After you've determined wh
 **Translate Handouts**
 
 Unsure where to begin contributing to Handouts translation? You can start by looking through these documents and see which ones have both English and Kinyarwanda versions:
-Bothe handouts versions are available at ….
+Bothe handouts versions are available at https://github.com/solangetuyisenge/MakeRwandaWebLiterate/tree/master/Handout.
