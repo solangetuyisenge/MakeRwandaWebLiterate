@@ -30,7 +30,7 @@ If you wish to lend a hand on our project, kindly take time to go through our co
 
 https://github.com/solangetuyisenge/MakeRwandaWebLiterate/blob/master/ROADMAP
 
-To ensure a mutual supportive and collaborative environment, we request everyone to follow our code of conduct while communicating, the code of conduct can be found here:https://github.com/solangetuyisenge/MakeRwandaWebLiterate/compare/master..  Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct in all interactions both on and offline. 
+To ensure a mutual supportive and collaborative environment, we request everyone to follow our code of conduct while communicating, the code of conduct can be found here:https://github.com/solangetuyisenge/MakeRwandaWebLiterate/blob/master/CODE_OF_CONDUCT.md.  Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct in all interactions both on and offline. 
 
 **Contact us**
 
